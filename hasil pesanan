@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=<device-width>,initial-scale=1.0">
+            <title>Hasil Pesanan</title>
+            <head>
+            <body>
+        <h2 style="text-xligh:center,"></h2 style>Hasil Pesanan</h2>
+        <table border="1"aligh="center"cellpadding="11">
+            <tr bgcolor="orange">
+                <th>No</th>
+                <th>Nama</th>
+                <th>Jenis Barang</th>
+                <th>Harga Barang</th>
+                <th>foto</th>
+            <tr>
+                <td>1</td>
+                <td>Imelda Siregar</td>
+                <td>Pakaian</td>
+                <td>50.000</td>
+                <td>Not Found</td>
+        <table>
+    <body>
+    <html>
